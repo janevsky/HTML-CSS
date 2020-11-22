@@ -1,0 +1,90 @@
+.navbar {
+    display: flex;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: auto;
+}
+
+.logo {
+    flex: auto;
+    margin: auto;
+    padding: 10px;
+}
+
+.navbutton {
+    padding: 10px;
+}
+
+.ul {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    list-style-type: none;
+}
+
+.li {
+    margin: 23px;
+}
+
+.button {
+    width: 70px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #bfbfbf;
+}
+
+.header {
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 15px;
+    height: 100%;
+    display: inline-block;
+}
+
+.headerimg {
+    left: 0px;
+    padding: 10px;
+    float: left;
+    padding-left: 60px;
+}
+
+.headertxt {
+    right: 0px;
+    padding: 0px;
+    width: 50%;
+    float: right;
+    font-size: 40px;
+    text-align: center;
+    padding-right: 20px;
+}
+
+.tablebox {
+    width: 33%;
+    border: solid black 1px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    height: 400px;
+    font-size: 20px;
+    background-color: #b3b3b3;
+}
+
+table {
+    padding-top: 10px;
+}
+
+#slika1 {
+    padding-right: 20px;
+}
+
+#slika2 {
+    padding-right: 20px;
+}
+
+#slika3 {
+    padding-right: 20px;
+}
+
+#slika4 {
+    padding-right: 20px;
+}

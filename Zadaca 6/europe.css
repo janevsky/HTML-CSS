@@ -1,0 +1,53 @@
+#graph {
+    justify-content: center;
+}
+
+.settings {
+    display: flex;
+}
+
+#firstpar {
+    border: 0.5rem solid #dbdbdb;
+    border-radius: 20px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1.5rem;
+}
+
+.navbar svg {
+    height: auto;
+    width: 2rem;
+}
+
+#navForm {
+    display: flex;
+}
+
+#kopce {
+    padding-right: 1rem;
+}
+
+#kopce a {
+    text-decoration: none;
+    color: #212529;
+    padding: 0.5rem;
+}
+
+#loginform {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#signupform {
+    display: grid;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#lastfooter {
+    background-color: #F8F9FA;
+}

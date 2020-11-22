@@ -1,0 +1,65 @@
+body {
+    background-image: url(Images/tech.jfif);
+}
+
+.navbar svg {
+    height: auto;
+    width: 2rem;
+}
+
+.container {
+    padding-top: 2rem;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.col-sm {
+    padding-top: 1rem;
+}
+
+#navForm {
+    display: flex;
+}
+
+#kopce {
+    padding-right: 1rem;
+}
+
+#kopce a {
+    text-decoration: none;
+    color: #212529;
+    padding: 0.5rem;
+}
+
+#loginform {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#signupform {
+    display: grid;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#lastfooter {
+    background-color: #F8F9FA;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}

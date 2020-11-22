@@ -1,0 +1,37 @@
+/* selektroi i svojstva */
+
+
+/* tri tipa na selektroi:
+1. selekcija spored tip na element (tag)
+2. selekcija spored ID na element
+3. selekcija spored CLASS na elementot
+*/
+
+
+/*ID*/
+
+#submit-button {
+    background-color: green;
+    color: white;
+}
+
+
+/*CLASS*/
+
+.user-input {
+    border: 1px solid grey;
+    border-radius: 5px;
+    border-radius: 15px;
+}
+
+
+/*selekcija spored tag*/
+
+textarea {
+    width: 500px;
+    height: 150px;
+}
+
+.separator {
+    margin-bottom: 10px;
+}

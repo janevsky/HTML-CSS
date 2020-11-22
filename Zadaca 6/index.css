@@ -1,0 +1,75 @@
+body {
+    background-image: url(Images/tech.jfif);
+}
+
+.navbar {
+    opacity: 0.9;
+    border: 1px solid lightgray;
+}
+
+.navbar svg {
+    height: auto;
+    width: 2rem;
+}
+
+.container {
+    margin-top: 3%;
+}
+
+.border {
+    border-radius: 1rem;
+}
+
+.carousel {
+    margin: 1rem 4rem 2rem 4rem;
+}
+
+.carousel-inner {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 2rem;
+}
+
+#paragraphpic1 {
+    border: 1px solid lightgray;
+    border-radius: 2rem;
+}
+
+#canalys {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+#navForm {
+    display: flex;
+}
+
+#kopce {
+    padding-right: 1rem;
+}
+
+#kopce a {
+    text-decoration: none;
+    color: #212529;
+    padding: 0.5rem;
+}
+
+#loginform {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#signupform {
+    display: grid;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#lastfooter {
+    background-color: #F8F9FA;
+    opacity: 0.7;
+    border: 1px solid lightgray;
+}

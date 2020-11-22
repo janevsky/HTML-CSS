@@ -1,0 +1,62 @@
+.navbar svg {
+    height: auto;
+    width: 2rem;
+}
+
+.container {
+    padding-top: 2rem;
+}
+
+#firstTable {
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#infoPara {
+    margin-left: 20%;
+}
+
+#graph {
+    justify-content: center;
+}
+
+#navForm {
+    display: flex;
+}
+
+#kopce {
+    padding-right: 1rem;
+}
+
+#kopce a {
+    text-decoration: none;
+    color: #212529;
+    padding: 0.5rem;
+}
+
+#loginform {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#signupform {
+    display: grid;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+#lastfooter {
+    background-color: #F8F9FA;
+}
+
+#naslov {
+    justify-content: center;
+    margin-bottom: 2rem;
+}

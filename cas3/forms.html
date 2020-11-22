@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>FORMS</title>
+</head>
+
+<body>
+
+    <form style="text-align: center;">
+        <div class="separator">
+            <!-- so FOR atribut gi vrzuvame inputot i labelata -->
+            <label for="email">Email:</label>
+            <input class="user-input" id="email" type="email" name="email" />
+        </div>
+
+        <div class="separator">
+            <label>Profile Picture:</label>
+            <input type="file" name="file-input">
+        </div>
+
+        <div class="separator">
+            <label>Choose your country:</label>
+            <select class="user-input" id="country" name="country">
+                <option value="1">USA</option>
+                <option value="2">Macedonia</option>
+                <option value="3">Germany</option>
+
+            </select>
+        </div>
+
+        <div class="separator">
+            <label>Date of Birth:</label>
+            <input class="user-input" type="date" />
+        </div>
+
+        <textarea class="user-input" placeholder="Tell us more about yourself"></textarea>
+        <div class="separator">
+            <!--<button>Sign Up</button> -->
+            <input id="submit-button" type="submit" value="Sign Up">
+        </div>
+
+    </form>
+
+
+
+
+
+</body>
+
+</html>
